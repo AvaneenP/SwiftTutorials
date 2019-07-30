@@ -1,0 +1,20 @@
+PODS:
+  - AFNetworking (0.9.1)
+  - TokenField (0.1.2)
+
+DEPENDENCIES:
+  - AFNetworking (= 0.9.1)
+  - TokenField (~> 0.1.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - TokenField
+
+SPEC CHECKSUMS:
+  AFNetworking: 7878df8698de3b1523a065629ebd4b24f5bb8cbc
+  TokenField: a38b4177b36bd2c75ad08d2112288c257bffeedb
+
+PODFILE CHECKSUM: 754cb05740737d8e94bda6d795a5a5be05b14660
+
+COCOAPODS: 1.7.5

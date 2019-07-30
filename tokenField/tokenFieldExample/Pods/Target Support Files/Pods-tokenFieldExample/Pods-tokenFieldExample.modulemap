@@ -1,0 +1,6 @@
+framework module Pods_tokenFieldExample {
+  umbrella header "Pods-tokenFieldExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
